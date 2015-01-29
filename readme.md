@@ -8,3 +8,5 @@ To run the sample, open a command prompt and execute the following commands:
  -  npm install -g karma-cli (to install karma cli globally)
  -  bower install (to install front-end packages)
  -  grunt (to start karma and run tests)
+ 
+Ravi's SitePoint article on Mocking dependencies in AngularJS tests: http://www.sitepoint.com/mocking-dependencies-angularjs-tests/
